@@ -1,0 +1,150 @@
+.container-fluid {
+    
+    padding-left: 145px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container-fluid1 {
+    margin-right: auto;
+    margin-left: auto;
+height:36px;
+color:white;
+margin-left:200px;
+
+}
+.navbar-nav{
+list-style:none;
+}
+.navbar-brand {
+    float: left;
+    height: 60px;
+    padding: 7px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding-top: 32px;
+color:black;
+font-size:13px;
+}
+
+.icon 
+{
+margin-top:32px;
+margin-left:717px;
+
+}
+.navbar-form
+{
+margin-top:8px;
+}
+.navbar-form .input-group>.form-control {
+    width: 215%;
+}
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+
+    margin-left: 156px;
+}
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+
+}
+
+.nav1>li>a {
+    position: relative;
+    display: block;
+    padding: 15px;
+color:white;
+font-size:13px;
+
+}
+.carousel-inner {
+    width: 100%;
+   
+  }
+.container-f2
+{
+height:240px;
+}
+.row1{
+    margin-top: 50px;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 15px;
+    height: 300px;
+}
+
+
+.line{
+    position: absolute;
+    width: 594px;
+    height: 3px;
+    background-color: black;
+    top: 138%;
+    left: 1%;
+}
+
+.line11{
+    position: absolute;
+    width: 580px;
+    height: 3px;
+    background-color: black;
+    top: 138%;
+    left:60%;
+
+}
+img{
+    border: 1px solid #8080804f;
+}
+.a{
+    border: 1px solid grey;
+}
+.container-ff{
+    height: 345px;
+    margin-left: 20%;
+}
+
+.fa {
+
+  padding-left:5px;
+
+  font-size:15px;
+}
+
+.checked {
+  color: orange;
+}
+.second{
+    height: 135px;
+
+}
+.btn1{
+ margin-top: 50px;
+    display: inline-block;
+    margin-bottom: -11px;
+    
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+
+
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+.third{
+    height: 300px;
+}
+img{
+    width: 100%;
+
+}
+.pos{
+    transform: translate(-36%,-345%);
+    float: right;
+}
