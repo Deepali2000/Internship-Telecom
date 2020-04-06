@@ -135,7 +135,7 @@ font-size: 18px;
 
 .f{
     height: 150px;
-    width: 200%;
+    width: 127%;
     background: #808080db;
     margin-left: -401px;
 }
@@ -145,7 +145,7 @@ font-size: 18px;
     color: white;
     font-size: 25px;
        width: 54%;
-transform: translate(60%,155%);
+transform: translate(85%,155%);
 }
 .footer{
     height: 415px;
